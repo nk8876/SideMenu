@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "25f296e11227460f605f276215cbd639"
+build_time: [1568962087, 249240000]
+inputs:
+  "/Users/dheerajarora/Desktop/SideMenu/SideMenu/Utils/Protocols.swift": [1568722657, 0]
+  "/Users/dheerajarora/Desktop/SideMenu/SideMenu/View/MenuOptionCell.swift": [1568794299, 0]
+  "/Users/dheerajarora/Desktop/SideMenu/SideMenu/Model/MenuOption.swift": [1568788232, 0]
+  "/Users/dheerajarora/Desktop/SideMenu/SideMenu/Controller/SettingViewController.swift": [1568794775, 0]
+  "/Users/dheerajarora/Desktop/SideMenu/SideMenu/NavigationDrawer/MenuController.swift": [1568788232, 0]
+  "/Users/dheerajarora/Desktop/SideMenu/SideMenu/AppDelegate.swift": [1568793903, 0]
+  "/Users/dheerajarora/Desktop/SideMenu/SideMenu/NavigationDrawer/ContainerController.swift": [1568794775, 0]
+  "/Users/dheerajarora/Desktop/SideMenu/SideMenu/Controller/HomeController.swift": [1568790583, 0]
